@@ -1,0 +1,31 @@
+{
+  "name": "javari-knowledge-documents",
+  "version": "1.0.0",
+  "description": "Knowledge base documents for Javari AI",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CR-AudioViz-AI/javari-knowledge-documents"
+  },
+  "author": "CR AudioViz AI, LLC",
+  "license": "UNLICENSED",
+  "private": true,
+  "keywords": [
+    "knowledge-base",
+    "ai",
+    "javari",
+    "documents",
+    "cr-audioviz-ai"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "lint": "echo \"Linting documents...\"",
+    "validate": "echo \"Validating documents...\""
+  },
+  "config": {
+    "documentRoot": "./documents",
+    "outputDir": "./processed",
+    "indexFile": "index.json"
+  }
+}
