@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2026-01-02T20:11:00-05:00",
+  "categories": [
+    {
+      "id": "business",
+      "name": "Business & Entrepreneurship",
+      "description": "Business strategy, marketing, and growth documents",
+      "document_count": 0
+    },
+    {
+      "id": "creative",
+      "name": "Creative Tools & Design",
+      "description": "Design principles, creative workflows, and tool guides",
+      "document_count": 0
+    },
+    {
+      "id": "technical",
+      "name": "Technical Documentation",
+      "description": "Programming, APIs, and system architecture",
+      "document_count": 0
+    },
+    {
+      "id": "community",
+      "name": "Community & Social Impact",
+      "description": "Community guidelines, social programs, and support resources",
+      "document_count": 0
+    }
+  ],
+  "metadata": {
+    "organization": "CR AudioViz AI, LLC",
+    "platform": "Javari AI",
+    "purpose": "Knowledge base for AI-assisted responses",
+    "license": "Proprietary"
+  },
+  "index": {
+    "total_documents": 0,
+    "total_categories": 4,
+    "last_indexed": null
+  }
+}
