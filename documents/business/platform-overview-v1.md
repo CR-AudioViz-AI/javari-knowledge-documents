@@ -16,7 +16,7 @@ Your Story. Our Design.
 - **Javari AI**: Intelligent AI assistant
 - **Creative Tools**: Professional design applications
 - **Games Library**: Entertainment collection
-- **CRAIverse**: Social impact modules
+- **Javariverse**: Social impact modules
 
 ## Technology Stack
 
